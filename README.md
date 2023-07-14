@@ -29,7 +29,7 @@ To install and run the Contact Nexus application locally, follow these steps:
 1. Clone the repository from GitHub:
 
    ```shell
-   git clone https://github.com/your-username/contact-nexus.git
+   git clone https://github.com/AbdulMohiz-01/contact-nexus.git
    ```
 
 2. Open the solution file (`ContactNexus.sln`) in Visual Studio or your preferred IDE.
